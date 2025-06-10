@@ -159,26 +159,26 @@ Step 9: Log into your Oracle 21c database using the Sqldeveloper front end. Use 
 ![Image](https://github.com/user-attachments/assets/d4b75202-49ab-47bc-9fd9-1c1ff037bacf)
 
 ---
-Step 10: 
+Step 10: Click on your database to reveal the query run tool interface
 ---
 ![Image](https://github.com/user-attachments/assets/f1c70826-fe53-4a8b-8b59-1f938713c0f5)
 
 ---
-Step 11: 
+Step 11: Copy and paste the gennerated ERD code onto the query run tool pad. Create the tables one after the other so as to be able to easily track error sources. Create "customers tabel"
 ---
 ![Image](https://github.com/user-attachments/assets/c9af75f3-5fca-4cdf-8d04-fb4dc677ac39)
 ---
-Step 12: 
+Step 12: Create "products" table
 ---
 ![Image](https://github.com/user-attachments/assets/62bf27d4-bd1e-453b-890c-96e49886d36e)
 
 ---
-Step 13: 
+Step 13: Create "orders" table
 ---
 ![Image](https://github.com/user-attachments/assets/855b3387-4697-4b83-96ed-5a7ef69aea0d)
 
 ---
-Step 14: 
+Step 14: Create "order_details" table
 ---
 ![Image](https://github.com/user-attachments/assets/24b8bb42-8799-4bf1-9a5f-7bcf6df07fc6)
 
