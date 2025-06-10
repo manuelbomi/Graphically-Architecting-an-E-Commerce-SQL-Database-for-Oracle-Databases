@@ -148,6 +148,8 @@ CREATE TABLE "order_detail" (
       REFERENCES "order"("id")
 );
 
+```
+
 
 ---
 Step 9: 
