@@ -153,42 +153,32 @@ CREATE TABLE "order_detail" (
 
 
 ---
-Step 9: 
+Step 9: Log into your Oracle 21c database using the Sqldeveloper front end. Use your specified credentials (username/password) to log in. Specify the name of the database to be created
 ---
-
-![Image](https://github.com/user-attachments/assets/205c4b1a-e5be-4a1a-9142-9e9e75e91088)
+ 
+![Image](https://github.com/user-attachments/assets/d4b75202-49ab-47bc-9fd9-1c1ff037bacf)
 
 ---
 Step 10: 
 ---
-![Image](https://github.com/user-attachments/assets/1b66a7e5-6796-4cb1-8603-07e5236a9f56)
+![Image](https://github.com/user-attachments/assets/f1c70826-fe53-4a8b-8b59-1f938713c0f5)
 
 ---
 Step 11: 
 ---
-![Image](https://github.com/user-attachments/assets/d4b75202-49ab-47bc-9fd9-1c1ff037bacf)
-
----
-Step 12: 
----
-![Image](https://github.com/user-attachments/assets/f1c70826-fe53-4a8b-8b59-1f938713c0f5)
-
----
-Step 13: 
----
 ![Image](https://github.com/user-attachments/assets/c9af75f3-5fca-4cdf-8d04-fb4dc677ac39)
 ---
-Step 14: 
+Step 12: 
 ---
 ![Image](https://github.com/user-attachments/assets/62bf27d4-bd1e-453b-890c-96e49886d36e)
 
 ---
-Step 15: 
+Step 13: 
 ---
 ![Image](https://github.com/user-attachments/assets/855b3387-4697-4b83-96ed-5a7ef69aea0d)
 
 ---
-Step 16: 
+Step 14: 
 ---
 ![Image](https://github.com/user-attachments/assets/24b8bb42-8799-4bf1-9a5f-7bcf6df07fc6)
 
