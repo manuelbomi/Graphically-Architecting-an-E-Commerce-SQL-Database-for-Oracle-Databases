@@ -5,7 +5,7 @@
 ### **OVERVIEW**
 Reliably architecting databases is very crucial for designing efficient data analytics systems. After selecting the software and the database to be used for a system, the next important question is to decide on how to architect the database, and how to correctly specify the relationships between the entities in the database. To do this all-important architecting task, entity relationship diagrams (ERDs) are often used. 
 
-After the data/system architect have specified the tables and their relationships, the modeler, database engineer, software engineer and/or the data engineer will then translate the ERD into SQL codes to create the desired database and tables for the target database.  
+After the data/system architect have specified the tables and their relationships, the modeler, database engineer, software engineer and/or the data engineer will then translate the ERD into SQL codes to create the desired database and tables for the target database. 
 
 > [!NOTE]
 > In some companies, the duties or tasks assigned to the data architect, system architect, data modeler, database engineer, data engineer or software engineer may ovelap. In most cases however, these engineers must often work hand-in-hand to achieve the desired objectives. 
