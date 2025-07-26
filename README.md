@@ -164,7 +164,7 @@ Step 10: Click on your database to reveal the query run tool interface
 ![Image](https://github.com/user-attachments/assets/f1c70826-fe53-4a8b-8b59-1f938713c0f5)
 
 ---
-Step 11: Copy and paste the gennerated ERD code onto the query run tool pad. Create the tables one after the other so as to be able to easily track error sources. Create "customers tabel"
+Step 11: Copy and paste the gennerated ERD code onto the query run tool pad. Create the tables one after the other so as to be able to easily track error sources. Create "customers table"
 ---
 ![Image](https://github.com/user-attachments/assets/c9af75f3-5fca-4cdf-8d04-fb4dc677ac39)
 ---
